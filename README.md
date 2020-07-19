@@ -7,6 +7,7 @@
 
 ### Technologies used:
 1. Twitter bootstrap
+2. Ajax
 
 ### Website link:
 [Click here](https://dwivedyaakash.github.io/RestaurantWebsite/)
