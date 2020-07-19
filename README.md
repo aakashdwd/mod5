@@ -9,4 +9,4 @@
 1. Twitter bootstrap
 
 ### Website link:
-The website was build on [GitHub pages](https://dwivedyaakash.github.io/RestaurantWebsite/)
+[Click here](https://dwivedyaakash.github.io/RestaurantWebsite/)
